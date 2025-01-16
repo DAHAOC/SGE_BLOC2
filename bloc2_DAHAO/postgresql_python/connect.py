@@ -1,7 +1,7 @@
 import psycopg2
 
 def connection_db():
-    conn = psycop2.connect(
+    conn = psycopg2.connect(
         database="the_bear",
         password="admin",
         user="admin",
@@ -9,3 +9,4 @@ def connection_db():
         port="5432"
     )
     return conn
+
