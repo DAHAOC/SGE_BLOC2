@@ -1,4 +1,4 @@
-![connection DATABASE.png](bloc2_DAHAO/Fotos/connection%20DATABASE.png)
+_**![connection DATABASE.png](bloc2_DAHAO/Fotos/connection%20DATABASE.png)
 PAS 5
 Podem veure com obrim la connexió i la tanquem amb èxit, com 
 
@@ -13,7 +13,8 @@ Introduïm dades del csv clients a la BD, es possible perque em establit conexio
 ![img.png](img.png)
 PAS7 COMPROVEM LA TAULA CREAT
 
-![img_1.png](img_1.png)
-PAS8 Agafa les dades de la taula cleints i les mostra
+![clientsInfo.png](bloc2_DAHAO/Fotos/clientsInfo.png)
+PAS8 Agafa les dades de la taula clients i les mostra
 
-![img_2.png](img_2.png)
+![clientesupdated.png](bloc2_DAHAO/Fotos/clientesupdated.png)
+
