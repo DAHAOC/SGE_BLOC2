@@ -17,4 +17,8 @@ PAS7 COMPROVEM LA TAULA CREAT
 PAS8 Agafa les dades de la taula clients i les mostra
 
 ![clientesupdated.png](bloc2_DAHAO/Fotos/clientesupdated.png)
+El telefon s'ha actualitzat
 
+![img_3.png](img_3.png)
+
+Hem eliminat el USUARI Roger i ja no surt una vegada executem el main
