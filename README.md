@@ -11,3 +11,9 @@ Introduïm dades del csv clients a la BD, es possible perque em establit conexio
 
 
 ![img.png](img.png)
+PAS7 COMPROVEM LA TAULA CREAT
+
+![img_1.png](img_1.png)
+PAS8 Agafa les dades de la taula cleints i les mostra
+
+![img_2.png](img_2.png)
